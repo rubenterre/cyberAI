@@ -416,13 +416,12 @@
   
   .uptotop__a{
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 85px;
+    right: 10%;
     background-color: black;
     border: 1px solid var(--color-primary);
     border-radius: 10px;
     padding: 10px;
-  
   }
 
   .uptotop__img{

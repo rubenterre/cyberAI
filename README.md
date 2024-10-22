@@ -4,7 +4,7 @@
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=BEM&logoColor=white)
 
-Este repositorio contiene el código fuente del proyecto mostrado en el video tutorial de YouTube sobre cómo iniciar un proyecto web desde cero utilizando **HTML**, **CSS** y el framework **Bulma**. En esta primera parte, cubrimos desde el briefing inicial hasta la creación de la estructura básica del sitio y su subida a GitHub.
+Este repositorio contiene el código fuente del proyecto mostrado en el video tutorial de YouTube sobre cómo realizar un proyecto web desde cero utilizando **HTML**, **CSS** y el framework **Bulma**.
 
 ## 📝 Descripción del tutorial
 
@@ -16,6 +16,7 @@ En el video, te guiaré a través de los primeros pasos en la creación de un pr
 4. **Subida del proyecto a GitHub**: Primeros pasos para hacer visible tu trabajo en un repositorio.
 
 ## 📌 Contenido del video
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 - **Briefing**: Cómo planificar los objetivos y estructura de un sitio web.
 - **HTML y CSS**: Creación de la estructura básica.
